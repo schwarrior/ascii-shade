@@ -1,0 +1,23 @@
+{
+  "name": "ascii-shade",
+  "version": "1.0.0",
+  "description": "ASCII art animation studio",
+  "main": "./build/index.js",
+  "scripts": {
+    "start": "node .",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarrior/ascii-shade.git"
+  },
+  "author": "Robert Schwartz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/schwarrior/ascii-shade/issues"
+  },
+  "homepage": "https://github.com/schwarrior/ascii-shade#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
